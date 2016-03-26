@@ -45,3 +45,10 @@ group :development do
   gem 'spring'
 end
 
+# For seed data
+gem 'database_cleaner'
+
+gem 'faker'
+
+gem 'rails-api'
+
